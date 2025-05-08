@@ -1,0 +1,16 @@
+{
+  "name": "mon-projet",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "secrets.js-grempe": "^2.0.0"
+  }
+}
